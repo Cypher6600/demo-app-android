@@ -29,7 +29,7 @@ pipeline {
     stages {
             stage('prep') {
                 steps {
-                git url: 'https://github.com/codemakeracademy/demo-android-application.git', branch: 'main'
+                git url: 'https://github.com/Cypher6600/demo-app-android.git', branch: 'second_remote'
                 }
             }
             stage('fastlane') {
