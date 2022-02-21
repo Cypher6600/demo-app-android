@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.0031377">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: update_android_strings" time="0.0075429">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: clean assembleRelease" time="19.8802302">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: appcenter_upload" time="19.5828002">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
